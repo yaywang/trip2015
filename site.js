@@ -4,8 +4,7 @@ var city_coordinates = {
     'Beijing': [116.3833, 39.9167],
     'Xian': [108.9000, 34.2667],
     'Lhasa' : [91.1167, 29.6500],
-    'Kathmandu': [85.3333, 27.7000],
-    ''
+    'Kathmandu': [85.3333, 27.7000]
 };
 
 function getGeojson(city_coordinates) {
